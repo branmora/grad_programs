@@ -73,4 +73,46 @@ Available on edx
 
 ### Theory
 
+
+## Freshman year
+
+### Fall
+
+
+###  Spring
+
+
+## Sophomore year
+
+### Fall
+
+
+###  Spring
+
+## Junior year
+
+### Fall
+
+
+###  Spring
+
+## Senior year
+
+### Fall
+
+
+###  Spring
+
+
+
+
+
+
+
+
+
+
+
+
+
 Not available
