@@ -78,8 +78,18 @@ Available on edx
 
 ### Fall
 
+Course | Prerequisite
+------------ | ------------- 
+18.01 | None
+14.01 | None
+Unrestricted Elective | None
+XX | None
 
 ###  Spring
+
+14.02 (no course available)
+
+18.02
 
 
 ## Sophomore year
