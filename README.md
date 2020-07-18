@@ -80,18 +80,18 @@ Available on edx
 
 Course | Prerequisite | Platform
 ------------ | ------------- | ------------- 
-18.01 | None |
+18.01 | None | [edX](www.edx.org)
 14.01 | None |
 Unrestricted Elective | None |
-HASS-H (CI-H) | None |
+Econ Restricted Elective - Theory/Science | None |
 
 ###  Spring
 
 Course | Prerequisite  | Platform
 ------------ | ------------- | ------------- 
-18.02 | 18.01 |
+18.02 | 18.01 | MIT OpenCourseWare
 14.02 | 14.01 |
-HASS-H (CI-H) | None |
+Econ Restricted Elective - Theory/Science | None |
 6.042 | None |
 
 ## Sophomore year
@@ -102,10 +102,8 @@ Course | Prerequisite  | Platform
 ------------ | ------------- | ------------- 
 14.30 (Replaced by 6.041) | 18.02 |
 Unrestricted elective | None |
-HASS-H (CI-H) | None |
- 6.0001/6.0002 | None |
-
-Maybe:
+Econ Restricted Elective - Theory/Science | None |
+6.0001/6.0002 | None |
 
 
 
@@ -125,8 +123,8 @@ Maybe:
 ### Fall
 Course | Prerequisite  | Platform
 ------------ | ------------- | ------------- 
-14 Restricted Elective | x |
-14 Intermediate Micro restricted subj | None |
+Econ Restricted Elective - Theory/Science | x |
+Econ Restricted Elective - Theory/Science | None |
 Unrestricted elective | None |
 18.650 | None |
 
@@ -140,11 +138,9 @@ Maybe:
 Course | Prerequisite  | Platform
 ------------ | ------------- | ------------- 
 14.05 |  x |
-14 Restricted Elective | None |
+Econ Restricted Elective - Theory/Science | None |
 Unrestricted elective | None |
 6.036 | None |
-
-Maybe:
 
 
 ## Senior year
@@ -154,30 +150,24 @@ Maybe:
 Course | Prerequisite  | Platform
 ------------ | ------------- | ------------- 
 14.33 (lab, CI-M) |  x |
-14 Restricted Elective | None |
-14 Restricted Elective | None |
+6.046 | None |
+Econ Restricted Elective - Theory/Science | None |
 Unrestricted Elective | None |
-
-Maybe:
-6.046
 
 
 ###  Spring
 
 Course | Prerequisite  | Platform
 ------------ | ------------- | ------------- 
-HASS |  x |
-14 Restricted Elective | None |
-14 Restricted Elective | None |
+15.053 |  x |
+Econ Restricted Elective - Theory/Science | None |
+Econ Restricted Elective - Theory/Science | None |
 Unrestricted Elective | None |
-
-Maybe:
-14.15/6.207J/15.053
 
 
 Electives per year and prerequisites:
 
-Econ restricted elective
+Econ Restricted Elective - Theory/Science
 
 Unrestricted elective
 
