@@ -81,15 +81,15 @@ Econ Restricted Elective - Theory/Science | None |
 Unrestricted Elective | None |
 
 
-##Electives per year and prerequisites:
+## Electives per year and prerequisites:
 
-###Econ Restricted Elective - Theory/Science
+### Econ Restricted Elective - Theory/Science
 
 Course | Prereq  | Platform
 ------------ | ------------- | ------------- 
 99.99 | 1.00, 1.000, 6.0001 | [edX]()
 
-###Unrestricted electives
+### Unrestricted electives
 
 Course | Prereq  | Platform
 ------------ | ------------- | ------------- 
