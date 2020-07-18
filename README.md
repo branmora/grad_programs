@@ -1,4 +1,4 @@
-# MIT-Economics-Computer-Science-and-Data-Science-(14-1) + (6-14)
+# MIT Economics, Computer Science, and Data Science (14-1) + (6-14)
 
 ## Freshman year
 
