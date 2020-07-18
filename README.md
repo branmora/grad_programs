@@ -83,11 +83,21 @@ Unrestricted Elective | None |
 
 ## Electives per year and prerequisites:
 
-### Econ Restricted Elective - Theory/Science
+### Restricted Elective
 
 Course | Prereq  | Platform
 ------------ | ------------- | ------------- 
-99.99 | 1.00, 1.000, 6.0001 | [edX]()
+6.86 Machine Learning with Python: from Linear Models to Deep Learning| 6.001, 6.431 | [edX](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to)
+14.73 The Challenges of Global Poverty | None | [edX](https://www.edx.org/course/the-challenges-of-global-poverty)
+14.74 Foundations of Development Policy - Advanced Development Economics | 14.01, 14.310 | [edX](https://www.edx.org/course/foundations-of-development-policy)
+14.75 Political Economy and Economic Development | 14.01, 14.310 | [edX](https://www.edx.org/course/political-economy-and-economic-development)
+JPAL 102x – Designing and Running Randomized Evaluations | 14.74  | [edX]()
+415.1 Foundations of Modern Finance | 6.431 | [edX](https://www.edx.org/micromasters/mitx-finance)
+Financial Accounting |  6.431, 18.06 | [edX](https://www.edx.org/course/finance-accounting)
+Mathematical Methods for Quantitative Finance | 6.431, 18.06 | [edX](https://www.edx.org/course/mathematical-methods-for-quantitative-finance)
+Derivatives Markets: Advanced Modeling and Strategies | 415.1 | [edX]()
+
+
 
 ### Unrestricted electives
 
