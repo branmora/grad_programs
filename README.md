@@ -80,7 +80,7 @@ Available on edx
 
 Course | Prerequisite | Platform
 ------------ | ------------- | ------------- 
-18.01 | None | [edX](www.edx.org)
+18.01 | None | [edX](https://www.edx.org/)
 14.01 | None |
 Unrestricted Elective | None |
 Econ Restricted Elective - Theory/Science | None |
