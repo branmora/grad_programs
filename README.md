@@ -78,51 +78,106 @@ Available on edx
 
 ### Fall
 
-Course | Prerequisite
------------- | ------------- 
-18.01 | None
-14.01 | None
-Unrestricted Elective | None
-XX | None
+Course | Prerequisite | Platform
+------------ | ------------- | ------------- 
+18.01 | None |
+14.01 | None |
+Unrestricted Elective | None |
+HASS-H (CI-H) | None |
 
 ###  Spring
 
-14.02 (no course available)
-
-18.02
-
+Course | Prerequisite  | Platform
+------------ | ------------- | ------------- 
+18.02 | 18.01 |
+14.02 | 14.01 |
+HASS-H (CI-H) | None |
+6.042 | None |
 
 ## Sophomore year
 
+
 ### Fall
+Course | Prerequisite  | Platform
+------------ | ------------- | ------------- 
+14.30 (Replaced by 6.041) | 18.02 |
+Unrestricted elective | None |
+HASS-H (CI-H) | None |
+ 6.0001/6.0002 | None |
+
+Maybe:
 
 
-###  Spring
+
+### Spring
+Course | Prerequisite  | Platform
+------------ | ------------- | ------------- 
+14.32 (Replaced by 14.310) | 6.041 |
+Unrestricted elective | None |
+6.006 | None |
+18.06 | 18.02 |
+
+Maybe:
+
 
 ## Junior year
 
 ### Fall
+Course | Prerequisite  | Platform
+------------ | ------------- | ------------- 
+14 Restricted Elective | x |
+14 Intermediate Micro restricted subj | None |
+Unrestricted elective | None |
+18.650 | None |
 
+Maybe:
+
+
+14.05, 14.18, or 14.33
 
 ###  Spring
+
+Course | Prerequisite  | Platform
+------------ | ------------- | ------------- 
+14.05 |  x |
+14 Restricted Elective | None |
+Unrestricted elective | None |
+6.036 | None |
+
+Maybe:
+
 
 ## Senior year
 
 ### Fall
 
+Course | Prerequisite  | Platform
+------------ | ------------- | ------------- 
+14.33 (lab, CI-M) |  x |
+14 Restricted Elective | None |
+14 Restricted Elective | None |
+Unrestricted Elective | None |
+
+Maybe:
+6.046
+
 
 ###  Spring
 
+Course | Prerequisite  | Platform
+------------ | ------------- | ------------- 
+HASS |  x |
+14 Restricted Elective | None |
+14 Restricted Elective | None |
+Unrestricted Elective | None |
+
+Maybe:
+14.15/6.207J/15.053
 
 
+Electives per year and prerequisites:
 
+Econ restricted elective
 
+Unrestricted elective
 
-
-
-
-
-
-
-
-Not available
