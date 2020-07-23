@@ -103,7 +103,13 @@ Derivatives Markets: Advanced Modeling and Strategies | 415.1 | [edX]()
 
 Course | Prereq  | Platform
 ------------ | ------------- | ------------- 
-99.99 | 1.00, 1.000, 6.0001 | [edX]()
-
-
+6.002 Circuits and Electronics| None | [edX](https://www.edx.org/xseries/mitx-circuits-and-electronics)
+8.01 Physics I: Mechanics | None | [edX](https://www.edx.org/xseries/mitx-introductory-mechanics)
+8.02 Physics II: Electricity and Magnetism | 8.01 | [edX](https://www.edx.org/xseries/mitx-introductory-electricity-and-magnetism)
+8.03 Physics III: Vibrations and Waves| 8.02| [[MIT OpenCourseWare](https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)
+8.04 Quantum Mechanics I | 8.03 and 18.03 | [edX](https://www.edx.org/course/quantum-mechanics-a-first-course)
+18.03 Differential Equations | 18.01 | [edX](https://www.edx.org/xseries/mitx-18.03x-differential-equations)
+Many more on MIT's edX | | [edX](https://www.edx.org/school/mitx)
+Many more on MIT's Open Learning Library | | [MIT OpenLearningLibrary](https://openlearning.mit.edu/courses-programs/open-learning-library)
+Many more on MIT's OpenCourseWare | | [MIT OpenCourseWare](https://ocw.mit.edu/courses/audio-video-courses)
 
