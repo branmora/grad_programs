@@ -93,9 +93,9 @@ Course | Prereq  | Platform
 14.75 Political Economy and Economic Development | 14.01 | [edX](https://www.edx.org/course/political-economy-and-economic-development)
 JPAL 102x – Designing and Running Randomized Evaluations | 14.74  | [edX]()
 15.415 Foundations of Modern Finance | 6.431 | [edX](https://www.edx.org/micromasters/mitx-finance)
-15.511 Financial Accounting |  6.431, 18.06 | [edX](https://www.edx.org/course/finance-accounting)
-Mathematical Methods for Quantitative Finance | 6.431, 18.06 | [edX](https://www.edx.org/course/mathematical-methods-for-quantitative-finance)
-Derivatives Markets: Advanced Modeling and Strategies | 15.415 | [edX]()
+15.516 Financial Accounting |  6.431, 18.06 | [edX](https://www.edx.org/course/finance-accounting)
+15.455 Mathematical Methods for Quantitative Finance | 6.431, 18.06 | [edX](https://www.edx.org/course/mathematical-methods-for-quantitative-finance)
+15.435 Derivatives Markets: Advanced Modeling and Strategies | 15.415 | [edX]()
 
 ### Unrestricted electives
 
